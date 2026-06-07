@@ -120,9 +120,6 @@ Throughput      : 1943585 log/detik
   sudo apt install pocl-opencl-icd
   ```
 
-## Catatan Pengembangan Lanjutan
+## Link video
 
-- Algoritma matching bisa diganti **Aho-Corasick** untuk N pattern sekaligus → 1 pass per log (lebih cepat saat P besar)
-- Buffer GPU bisa di-*pin* (`CL_MEM_ALLOC_HOST_PTR`) untuk transfer asinkron yang overlap dengan komputasi
-- Versi hybrid dapat di-*sharding*: separuh log ke GPU, separuh ke OpenMP CPU, lalu merge
-- Tambah modul deteksi **anomali statistik** (z-score traffic per IP) sebagai komplemen signature-based
+https://youtu.be/oid58q2jbCk
