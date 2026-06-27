@@ -1,9 +1,9 @@
 # Parallel Intrusion Detection System (IDS) Log Analyzer
 
 Sistem analisis log jaringan secara **paralel** untuk mendeteksi pola serangan siber menggunakan **OpenMP** (multi-core CPU) dan **OpenCL** (GPU/heterogeneous).
-Mutia Alma Sovia			 25032014058 
-Yoga Candra Putra			 25032014053 
-Muhammad Ibnu Reza   	 25032014031 
+#Mutia Alma Sovia			 25032014058 
+#Yoga Candra Putra			 25032014053 
+#Muhammad Ibnu Reza   	 25032014031 
 
 ## Arsitektur
 
